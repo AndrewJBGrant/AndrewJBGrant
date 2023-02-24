@@ -1,16 +1,14 @@
 ### Hi there 👋
+🇮🇪 Junior Web Dev based in Berlin
 
-<!--
-**AndrewJBGrant/AndrewJBGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍🎨 Interested in Front-end and design, would like to join some open source projects soon
 
-Here are some ideas to get you started:
+🏋️‍♀️ Working on different Projects to push and test my React knoweldge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑🏻‍💻 Learning goals include TypeScript, React Native and better UI/UX practises
+
+🤠 Looking for a Junior Front-End role!
+
+📬 Write me at andrewgrant2009@hotmail.com
+
+🛠 Languages and Tools include: Ruby on Rails, HTML5 CSS3 JavaScript postgresql and React
