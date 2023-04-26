@@ -11,4 +11,4 @@
 
 📬 Write me at andrewgrant2009@hotmail.com
 
-🛠 Languages and Tools include: Ruby on Rails, HTML5 CSS3 JavaScript postgresql and React
+🛠 Languages and Tools include: Ruby on Rails, HTML5 CSS3 JavaScript and React
