@@ -5,7 +5,7 @@
 
 🏋️‍♀️ Working on different Projects to push and test my React knoweldge
 
-🧑🏻‍💻 Learning goals include TypeScript, React Native and better UI/UX practises
+🧑🏻‍💻 Learning goals include TypeScript and better UI/UX practises
 
 🤠 Looking for a Junior Front-End role!
 
