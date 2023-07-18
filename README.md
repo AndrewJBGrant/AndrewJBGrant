@@ -3,7 +3,7 @@
 
 👨🏻‍🎨 Interested in Front-end and design, would like to join some open source projects soon
 
-🏋️‍♀️ Working on different Projects to push and test my React knoweldge
+🏋️‍♀️ Working on different Projects to push and test knoweldge
 
 🧑🏻‍💻 Learning goals include TypeScript and better UI/UX practises
 
