@@ -5,10 +5,8 @@
 
 🏋️‍♀️ Working on different Projects to push and test knoweldge
 
-🧑🏻‍💻 Learning goals include TypeScript and better UI/UX
-
 🤠 Looking for a Junior Front-End role!
 
 📬 Write me at andrewgrant2009@hotmail.com
 
-🛠 Languages and Tools include: Ruby on Rails, HTML CSS JavaScript and React
+🛠 Languages and Tools include: Ruby on Rails, HTML CSS JavaScript, TypeSrcipt and React
